@@ -10,6 +10,7 @@
 Note: Each table must have primary key, Unique key and should have foreign key constraints (can have check constraints)
 
  SUBCategory_Table:-
+ 
 	Create Table SubCategoryTable
 	(
 	SubCategory_Id int identity(100,1) primary key,
